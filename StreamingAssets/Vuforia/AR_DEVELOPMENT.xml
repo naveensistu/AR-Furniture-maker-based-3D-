@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="img1" size="8.000000 8.000000" />
+    <ImageTarget name="W" size="7.000000 9.333333" />
+    <ImageTarget name="dup_sofa" size="7.000000 7.000000" />
+    <ImageTarget name="chair" size="6.000000 10.491803" />
+    <ImageTarget name="sofa_sketch" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
